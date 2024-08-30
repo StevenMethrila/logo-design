@@ -33,16 +33,13 @@
     justify-content: center;
     align-items: center;
 }
-
 .main-heading{
     font-size: 40px;
     font-weight: 700;
 }
-
 .spanElement{
-    color: #E74C3C;
+    color: #f46c5d;
 }
-
 .main-para{
     font-size: 20px;
 }
